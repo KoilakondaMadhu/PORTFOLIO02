@@ -373,7 +373,7 @@ export const Bio = {
       tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
       category: "machine learning",
       github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-      webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+      webapp: "",
     },
   ];
   
